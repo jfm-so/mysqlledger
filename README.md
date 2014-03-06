@@ -8,3 +8,7 @@ Balance your checkbook with ease using your smartphone or Computer.
 
 Want to keep it super private? Add a .htaccess file.
 
+Planned Features:
+  * Built in Username and Password Protection
+  * Nicer Theme
+
