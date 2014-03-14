@@ -83,14 +83,14 @@ mysql_close($con);
 <html>
 </div>
     </div>
-   <p class="text-center">Created by <a target="_blank" href="http://www.clevercoding.co/">CleverCoding.co</a>. Open Source at <a target="_blank" href="http://www.github.com/cloding/mysqlledger">Github</a>!</p>
+   <p class="text-center">Created by <a target="_blank" href="http://www.clevercoding.technology/">CleverCoding.technology</a>. Open Source at <a target="_blank" href="http://www.github.com/cloding/mysqlledger">Github</a>!</p>
 </div>
 </html>
 
 <?php
       exit;
    } else {
-      echo "Bad Cookie.";
+      echo "Bad Cookie. Remove Cookies and try again";
       exit;
    }
 }
