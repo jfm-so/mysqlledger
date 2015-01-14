@@ -6,9 +6,6 @@
 Info:
 Balance your checkbook with ease using your smartphone or Computer.
 
-Updates:
-  * Username and Password Login
-
 Planned Features:
   * Nicer Theme
   * Multiple User Accounts  
