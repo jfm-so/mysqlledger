@@ -83,7 +83,7 @@ mysql_close($con);
 <html>
 </div>
     </div>
-   <p class="text-center">Created by <a target="_blank" href="http://www.clevercoding.technology/">CleverCoding.technology</a>. Open Source at <a target="_blank" href="http://www.github.com/cloding/mysqlledger">Github</a>!</p>
+   <p class="text-center">Created by <a target="_blank" href="http://JohnathanMartin.com">Johnathan Martin</a>. Open Source at <a target="_blank" href="http://www.github.com/johnathanmartin/mysqlledger">Github</a>!</p>
 </div>
 </html>
 
