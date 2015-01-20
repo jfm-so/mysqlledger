@@ -1,4 +1,5 @@
 <?php
+//If you have any problems, bugs, or errors with this script please file them on the github repo.
 $dbhost = 'localhost'; // mysql server
 $dbname = 'ledger'; // Database Name
 $tablename = 'ledger1';// Database Table Name
