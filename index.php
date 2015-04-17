@@ -13,8 +13,8 @@ if (isset($_COOKIE['PrivatePageLogin'])) {
 <form action="insert.php" method="post">
 Date: <input type="date" name="date1" required>
 Description: <input type="text" name="description" required>
-Deposit: <input type="number" name="deposit" step="any" >
-Payment: <input type="number" name="payment" step="any" >
+Deposit: (+) <input type="number" name="deposit" step="any" >
+Payment: (-)<input type="number" name="payment" step="any" >
 <input type="submit">
 </form>
 
@@ -38,8 +38,8 @@ echo "<table border='1'>
 <th>ID</th>
 <th>Date</th>
 <th>Description</th>
-<th>Deposit</th>
-<th>Payment</th>
+<th>Deposit (+)</th>
+<th>Payment (-)</th>
 </tr>";
 
 while($row = mysqli_fetch_array($result))
