@@ -112,7 +112,7 @@ if (isset($_GET['p']) && $_GET['p'] == "login") {
 ?>
 
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>?p=login" method="post">
-<label><input type="text" name="user" id="user" /> Name</label><br />
-<label><input type="password" name="keypass" id="keypass" /> Password</label><br />
+<label>Username: <input type="text" name="user" id="user" /></label><br />
+<label>Password: <input type="password" name="keypass" id="keypass" /></label><br />
 <input type="submit" id="submit" value="Login" />
 </form>
