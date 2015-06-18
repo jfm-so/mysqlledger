@@ -6,6 +6,7 @@
 Info:
 Balance your checkbook with ease using your smartphone or Computer.
 
-Planned Features:
-  * Nicer Theme
-  * Multiple User Accounts  
+Coming Soon:
+
+ * Nicer Theme
+ * Fix annoying redirect after submitting transaction 
